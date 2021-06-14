@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/multi-step-form/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/multi-step-form/static/js/main.e990fd81.chunk.js",
+    "main.js.map": "/multi-step-form/static/js/main.e990fd81.chunk.js.map",
+    "runtime-main.js": "/multi-step-form/static/js/runtime-main.5e9c9615.js",
+    "runtime-main.js.map": "/multi-step-form/static/js/runtime-main.5e9c9615.js.map",
+    "static/js/2.1da4a351.chunk.js": "/multi-step-form/static/js/2.1da4a351.chunk.js",
+    "static/js/2.1da4a351.chunk.js.map": "/multi-step-form/static/js/2.1da4a351.chunk.js.map",
+    "static/js/3.0278749d.chunk.js": "/multi-step-form/static/js/3.0278749d.chunk.js",
+    "static/js/3.0278749d.chunk.js.map": "/multi-step-form/static/js/3.0278749d.chunk.js.map",
+    "index.html": "/multi-step-form/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/multi-step-form/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.1da4a351.chunk.js.LICENSE.txt": "/multi-step-form/static/js/2.1da4a351.chunk.js.LICENSE.txt",
+    "static/media/tenor.d66c2f62.gif": "/multi-step-form/static/media/tenor.d66c2f62.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e9c9615.js",
+    "static/js/2.1da4a351.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.e990fd81.chunk.js"
+  ]
+}
